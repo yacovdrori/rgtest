@@ -1,5 +1,5 @@
 # rgtest
-This is coonsisted of 2 main modules
+This is consisted of 2 main modules
 * ui
 * serial broker
 
